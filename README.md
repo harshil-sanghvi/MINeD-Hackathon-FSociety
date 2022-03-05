@@ -65,18 +65,6 @@ OpenCV is used for all sorts of image and video analysis, like facial recognitio
 ### Matplotlib
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
 ## Roadmap
 
 - First of all we need to run step by step by step code and set the file path according to your system else it will give FileNotFoundError , so set the path according to your system by downloading all the necessary images given in the folder in the project description . 
